@@ -1,0 +1,9 @@
+{
+  "bracketSpacing": true,
+  "jsxSingleQuote": true,
+  "semi": true,
+  "singleQuote": true,
+  "trailingComma": "none",
+  "tabWidth": 2,
+  "printWidth": 120
+}
